@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260321145906SLIKYW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202603211459067DDF6W</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Animal Farm with maths</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Irene Alonso Canella</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774101541577</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn0e92er-lfermktx9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92er-lfermktx9</odePageId>
+      <odeBlockId>block-1774088392018-iakpvwvkn</odeBlockId>
+      <blockName>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92er-lfermktx9</odePageId>
+          <odeBlockId>block-1774088392018-iakpvwvkn</odeBlockId>
+          <odeIdeviceId>idevice-1774088392016-4ohnhz3ay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está dirigida a los alumnos y alumnas de 2º de Educación Secundaria Obligatoria (ESO), dentro de la materia de Matemáticas, en el marco del programa bilingüe HABLE, en el que se utiliza el inglés como lengua vehicular en determinadas actividades.</p>
+<p>La propuesta se vincula con la lectura de Rebelión en la granja, trabajada de forma coordinada en distintas materias, favoreciendo un enfoque interdisciplinar que integra Matemáticas, lengua inglesa y el desarrollo del pensamiento crítico.</p>
+<p><strong>Etapa educativa y nivel</strong><br />Educación Secundaria Obligatoria (ESO), 2º curso</p>
+<p><strong>Áreas, materias o módulos implicado</strong>s<br />Matemáticas<br />Lengua Castellana y Literatura<br />Inglés<br />Geografía e Historia<br />Educación Física</p>
+<p><strong>Agrupamientos y organización espacial</strong><br />Se emplearán distintos tipos de agrupamiento, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA):</p>
+<p>Gran grupo<br />Trabajo individual<br />Trabajo por parejas<br />Grupos cooperativos heterogéneos de 3 o 4 integrantes<br />La organización del aula será flexible para favorecer la participación activa, la inclusión y el aprendizaje cooperativo.</p>
+<p><strong>Temporalización</strong></p>
+<p>Se desarrollará en 3 sesiones de 55 minutos en el aula, combinadas con trabajo autónomo del alumnado fuera del horario lectivo.</p>
+<p>Sesión 1: Introducción al proyecto, contextualización en Rebelión en la granja y planteamiento de los problemas matemáticos.<br />Sesión 2: Resolución de ecuaciones y sistemas en grupo y diseño de los productos.<br />Sesión 3: Exposición de resultados y presentación de los productos finales.<br />El desarrollo de la infografía y la grabación del vídeo se completará como trabajo en casa, fomentando la autonomía del alumnado y el uso responsable de herramientas digitales.</p>
+<p><strong>Productos finales del alumnado</strong><br />El alumnado elaborará los siguientes productos:</p>
+<ol>
+<li>Un problema de ecuación de primer grado contextualizado en Rebelión en la granja.</li>
+<li>Un problema de sistema de ecuaciones basado en situaciones de la obra (reparto de recursos, número de animales, etc.)</li>
+<li>Una infografía digital con algún elemento interactivo (enlaces, botones, etc.) en la que se explique uno de los problemas</li>
+<li>Un vídeo en inglés en el que se explique paso a paso la resolución de uno de los problemas<strong></strong></li>
+</ol>
+<p><strong>Herramientas tecnológicas y recursos</strong><br />Se utilizarán a escoger las siguientes herramientas:</p>
+<p>Canva o Genially (creación de infografías con elementos interactivos)<br />PowerPoint (apoyo visual)<br />Dispositivos móviles o tablets (grabación de vídeo)<br />Microsoft Teams / OneDrive (entrega de tareas)<br />Recursos complementarios como vídeos educativos o materiales proporcionados por el profesorado<br /> <br /><strong>Finalidad de la Situación de Aprendizaje</strong><br />El objetivo es que el alumnado aplique el álgebra en contextos significativos, desarrolle el pensamiento crítico a partir de situaciones relacionadas con la desigualdad y utilice herramientas digitales de forma responsable, creativa y eficaz.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774088392016-4ohnhz3ay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está dirigida a los alumnos y alumnas de 2º de Educación Secundaria Obligatoria (ESO), dentro de la materia de Matemáticas, en el marco del programa bilingüe HABLE, en el que se utiliza el inglés como lengua vehicular en determinadas actividades.</p>\n<p>La propuesta se vincula con la lectura de Rebelión en la granja, trabajada de forma coordinada en distintas materias, favoreciendo un enfoque interdisciplinar que integra Matemáticas, lengua inglesa y el desarrollo del pensamiento crítico.</p>\n<p><strong>Etapa educativa y nivel</strong><br />Educación Secundaria Obligatoria (ESO), 2º curso</p>\n<p><strong>Áreas, materias o módulos implicado</strong>s<br />Matemáticas<br />Lengua Castellana y Literatura<br />Inglés<br />Geografía e Historia<br />Educación Física</p>\n<p><strong>Agrupamientos y organización espacial</strong><br />Se emplearán distintos tipos de agrupamiento, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA):</p>\n<p>Gran grupo<br />Trabajo individual<br />Trabajo por parejas<br />Grupos cooperativos heterogéneos de 3 o 4 integrantes<br />La organización del aula será flexible para favorecer la participación activa, la inclusión y el aprendizaje cooperativo.</p>\n<p><strong>Temporalización</strong></p>\n<p>Se desarrollará en 3 sesiones de 55 minutos en el aula, combinadas con trabajo autónomo del alumnado fuera del horario lectivo.</p>\n<p>Sesión 1: Introducción al proyecto, contextualización en Rebelión en la granja y planteamiento de los problemas matemáticos.<br />Sesión 2: Resolución de ecuaciones y sistemas en grupo y diseño de los productos.<br />Sesión 3: Exposición de resultados y presentación de los productos finales.<br />El desarrollo de la infografía y la grabación del vídeo se completará como trabajo en casa, fomentando la autonomía del alumnado y el uso responsable de herramientas digitales.</p>\n<p><strong>Productos finales del alumnado</strong><br />El alumnado elaborará los siguientes productos:</p>\n<ol>\n<li>Un problema de ecuación de primer grado contextualizado en Rebelión en la granja.</li>\n<li>Un problema de sistema de ecuaciones basado en situaciones de la obra (reparto de recursos, número de animales, etc.)</li>\n<li>Una infografía digital con algún elemento interactivo (enlaces, botones, etc.) en la que se explique uno de los problemas</li>\n<li>Un vídeo en inglés en el que se explique paso a paso la resolución de uno de los problemas<strong></strong></li>\n</ol>\n<p><strong>Herramientas tecnológicas y recursos</strong><br />Se utilizarán a escoger las siguientes herramientas:</p>\n<p>Canva o Genially (creación de infografías con elementos interactivos)<br />PowerPoint (apoyo visual)<br />Dispositivos móviles o tablets (grabación de vídeo)<br />Microsoft Teams / OneDrive (entrega de tareas)<br />Recursos complementarios como vídeos educativos o materiales proporcionados por el profesorado<br /> <br /><strong>Finalidad de la Situación de Aprendizaje</strong><br />El objetivo es que el alumnado aplique el álgebra en contextos significativos, desarrolle el pensamiento crítico a partir de situaciones relacionadas con la desigualdad y utilice herramientas digitales de forma responsable, creativa y eficaz.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92ev-5c4oqh5xv</odePageId>
+  <odeParentPageId>page-mn0e92er-lfermktx9</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92ev-5c4oqh5xv</odePageId>
+      <odeBlockId>block-1774085161999-ebzg9jxpo</odeBlockId>
+      <blockName>Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92ev-5c4oqh5xv</odePageId>
+          <odeBlockId>block-1774085161999-ebzg9jxpo</odeBlockId>
+          <odeIdeviceId>idevice-1774085161996-id80xagp0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está diseñada para promover un aprendizaje significativo, conectando las Matemáticas con un contexto literario cercano al alumnado a través de la lectura de Rebelión en la granja. Su finalidad es desarrollar la competencia matemática al tiempo que se fomenta el pensamiento crítico y la conciencia social.</p>
+<p>El alumnado no solo aprenderá a resolver ecuaciones lineales y sistemas de ecuaciones, sino que también comprenderá cómo las matemáticas pueden aplicarse a la interpretación de situaciones reales, como la desigualdad, la distribución de recursos y las relaciones de poder.</p>
+<p>Esta propuesta fomenta la participación activa, el trabajo cooperativo y el uso del inglés como lengua vehicular, reforzando tanto la competencia matemática como la lingüística en un entorno inclusivo y motivador.</p>
+<p>Desde una perspectiva digital, el alumnado desarrollará su competencia digital mediante la creación de contenidos como infografías y vídeos, aprendiendo a utilizar las herramientas tecnológicas de forma responsable, crítica y creativa.</p>
+<p><strong>ODS </strong><br />La intención educativa de esta Situación de Aprendizaje se vincula con los siguientes Objetivos de Desarrollo Sostenible (ODS) y retos del siglo XXI:</p>
+<p>ODS 4: Educación de calidad<br />Esta Situación de Aprendizaje promueve un aprendizaje significativo al conectar los conocimientos matemáticos con contextos reales, fomentando la resolución de problemas y el pensamiento crítico.</p>
+<p>ODS 10: Reducción de las desigualdades<br />A través del análisis de situaciones inspiradas en Rebelión en la granja, el alumnado reflexiona sobre la desigualdad, las relaciones de poder y la distribución de recursos, vinculando las matemáticas con la conciencia social.</p>
+<p><strong>RETOS DEL SIGLO XXI</strong></p>
+<p><em>Reto 1</em>: Competencia digital<br />El uso de herramientas TIC, como la elaboración de infografías y la creación de vídeos, permite al alumnado desarrollar la competencia digital, la creatividad y el uso responsable de la tecnología.</p>
+<p><em>Reto 2</em>: Pensamiento crítico y resolución de problemas<br />El alumnado aprende a interpretar situaciones, traducirlas al lenguaje matemático y resolverlas mediante el uso del álgebra, desarrollando habilidades de análisis y razonamiento.</p>
+<p><em>Reto 3</em>: Comunicación en lengua extranjera<br />El trabajo en inglés favorece el desarrollo de la competencia lingüística y permite al alumnado expresar el razonamiento matemático de forma clara y eficaz.</p>
+<p>Esta Situación de Aprendizaje promueve una educación inclusiva, equitativa y de calidad, garantizando que todo el alumnado pueda participar activamente y progresar en su aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774085161996-id80xagp0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está diseñada para promover un aprendizaje significativo, conectando las Matemáticas con un contexto literario cercano al alumnado a través de la lectura de Rebelión en la granja. Su finalidad es desarrollar la competencia matemática al tiempo que se fomenta el pensamiento crítico y la conciencia social.</p>\n<p>El alumnado no solo aprenderá a resolver ecuaciones lineales y sistemas de ecuaciones, sino que también comprenderá cómo las matemáticas pueden aplicarse a la interpretación de situaciones reales, como la desigualdad, la distribución de recursos y las relaciones de poder.</p>\n<p>Esta propuesta fomenta la participación activa, el trabajo cooperativo y el uso del inglés como lengua vehicular, reforzando tanto la competencia matemática como la lingüística en un entorno inclusivo y motivador.</p>\n<p>Desde una perspectiva digital, el alumnado desarrollará su competencia digital mediante la creación de contenidos como infografías y vídeos, aprendiendo a utilizar las herramientas tecnológicas de forma responsable, crítica y creativa.</p>\n<p><strong>ODS </strong><br />La intención educativa de esta Situación de Aprendizaje se vincula con los siguientes Objetivos de Desarrollo Sostenible (ODS) y retos del siglo XXI:</p>\n<p>ODS 4: Educación de calidad<br />Esta Situación de Aprendizaje promueve un aprendizaje significativo al conectar los conocimientos matemáticos con contextos reales, fomentando la resolución de problemas y el pensamiento crítico.</p>\n<p>ODS 10: Reducción de las desigualdades<br />A través del análisis de situaciones inspiradas en Rebelión en la granja, el alumnado reflexiona sobre la desigualdad, las relaciones de poder y la distribución de recursos, vinculando las matemáticas con la conciencia social.</p>\n<p><strong>RETOS DEL SIGLO XXI</strong></p>\n<p><em>Reto 1</em>: Competencia digital<br />El uso de herramientas TIC, como la elaboración de infografías y la creación de vídeos, permite al alumnado desarrollar la competencia digital, la creatividad y el uso responsable de la tecnología.</p>\n<p><em>Reto 2</em>: Pensamiento crítico y resolución de problemas<br />El alumnado aprende a interpretar situaciones, traducirlas al lenguaje matemático y resolverlas mediante el uso del álgebra, desarrollando habilidades de análisis y razonamiento.</p>\n<p><em>Reto 3</em>: Comunicación en lengua extranjera<br />El trabajo en inglés favorece el desarrollo de la competencia lingüística y permite al alumnado expresar el razonamiento matemático de forma clara y eficaz.</p>\n<p>Esta Situación de Aprendizaje promueve una educación inclusiva, equitativa y de calidad, garantizando que todo el alumnado pueda participar activamente y progresar en su aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92ey-fm7a01llh</odePageId>
+  <odeParentPageId>page-mn0e92er-lfermktx9</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92ey-fm7a01llh</odePageId>
+      <odeBlockId>block-1774086469277-0zv6ncjkq</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92ey-fm7a01llh</odePageId>
+          <odeBlockId>block-1774086469277-0zv6ncjkq</odeBlockId>
+          <odeIdeviceId>idevice-1774086469271-6wimtdgd3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias clave (perfil de salida)</strong><br /><br /></p>
+<ul>
+<li><em>Competencia en comunicación lingüística (CCL)</em>: el alumnado comprende, interpreta y comunica información matemática en inglés, tanto de forma oral como escrita.</li>
+<li><em>Competencia plurilingüe (CP)</em>: el alumnado utiliza el inglés como lengua vehicular en el aprendizaje matemático, respetando la diversidad lingüística.</li>
+<li><em>Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)</em>: el alumnado aplica el razonamiento matemático para resolver problemas mediante ecuaciones y sistemas de ecuaciones.</li>
+<li><em>Competencia digital (CD)</em>: el alumnado crea contenidos digitales (infografías y vídeos), utilizando herramientas tecnológicas de forma crítica, responsable y creativa.</li>
+<li>Competencia personal, social y de aprender a aprender (CPSAA): el alumnado desarrolla habilidades de trabajo cooperativo, autonomía y autorregulación del aprendizaje.</li>
+<li style="text-align: left;">Competencia ciudadana (CC): el alumnado reflexiona sobre situaciones de desigualdad y organización social inspiradas en Rebelión en la granja.</li>
+<li style="text-align: left;">Competencia emprendedora (CE): el alumnado propone soluciones a problemas y desarrolla iniciativa en la creación de productos digitales.<strong></strong></li>
+</ul>
+<p><strong>Competencias específicas</strong><br /><em>CE1</em>. Interpretar, modelizar y resolver problemas de la vida cotidiana mediante el uso de ecuaciones y sistemas de ecuaciones.<br /><em>CE2</em>. Analizar y verificar la validez de las soluciones obtenidas en problemas matemáticos.<br /><em>CE3</em>. Formular y comprobar conjeturas y plantear problemas a partir de situaciones contextualizadas.<br /><em>CE6</em>. Identificar relaciones entre las matemáticas y otras materias, especialmente en contextos reales.<br /><em>CE7</em>. Representar información matemática utilizando diferentes formatos y herramientas digitales.<br /><em>CE8</em>. Comunicar procesos y resultados matemáticos utilizando un lenguaje adecuado, en este caso en lengua inglesa.<br /><em>CE10</em>. Trabajar de forma cooperativa, participando activamente y respetando las aportaciones del resto del grupo.<br /> <br /><strong>Criterios de evaluación</strong><br /></p>
+<p>1.1. Interpretar problemas matemáticos organizando los datos dados, estableciendo las relaciones entre ellos y comprendiendo las preguntas formuladas.<br />1.2. Aplicar herramientas y estrategias apropiadas que contribuyan a la resolución de problemas.<br />1.3. Obtener soluciones matemáticas de un problema activando los conocimientos y utilizando las herramientas tecnológicas necesarias.</p>
+<p>2.1. Comprobar la corrección matemática de las soluciones de un problema.<br />2.2. Comprobar la validez de las soluciones de un problema y su coherencia en el contexto planteado, evaluando el alcance y repercusión de estas desde diferentes perspectivas.</p>
+<p>3.2. Plantear variantes de un problema dado modificando alguno de sus datos o alguna condición del problema.<br />3.3. Emplear herramientas tecnológicas adecuadas en la investigación y comprobación de conjeturas o problemas.</p>
+<p>6.1. Reconocer situaciones susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo conexiones entre el mundo real y las matemáticas y usando los procesos inherentes a la investigación: inferir, medir, comunicar, clasificar y predecir.<br />6.2. Identificar conexiones coherentes entre las matemáticas y otras materias resolviendo problemas contextualizados.<br />6.3. Reconocer la aportación de las matemáticas al progreso de la humanidad y su contribución a la superación de los retos que demanda la sociedad actual.<br />Competencia específica 7</p>
+<p>7.1. Representar conceptos, procedimientos, información y resultados matemáticos de modos distintos y con diferentes herramientas, incluidas las digitales, visualizando ideas y estructurando procesos matemáticos.<br />7.2. Elaborar representaciones matemáticas que ayuden en la búsqueda de estrategias de resolución de una situación problemática.<br />Competencia específica 8</p>
+<p>8.1. Comunicar información utilizando el lenguaje matemático apropiado, utilizando diferentes medios, incluidos los digitales, oralmente y por escrito, al describir, explicar y justificar razonamientos, procedimientos y conclusiones.<br />8.2. Reconocer y emplear el lenguaje matemático presente en la vida cotidiana comunicando mensajes con contenido matemático con precisión y rigor.<br />Competencia específica 10</p>
+<p>10.1. Colaborar activamente y construir relaciones trabajando con las matemáticas en equipos heterogéneos, respetando diferentes opiniones, comunicándose de manera efectiva, pensando de forma crítica y creativa y tomando decisiones.<br />10.2. Participar en el reparto de tareas que deban desarrollarse en equipo, aportando valor, favoreciendo la inclusión, la escucha activa, asumiendo el rol asignado y responsabilizándose de la propia contribución al equipo.</p>
+<p><br /> <br /><strong>Saberes básicos</strong><br /></p>
+<p><em>Bloque D. Sentido algebraico y pensamiento computacional</em></p>
+<p>Modelización de situaciones de la vida cotidiana usando representaciones matemáticas y el lenguaje algebraico.<br />Estrategias de deducción de conclusiones razonables a partir de un modelo matemático.<br />Variable: comprensión del concepto en sus diferentes naturalezas.<br />Relaciones lineales y cuadráticas en situaciones de la vida cotidiana o matemáticamente relevantes: expresión mediante álgebra simbólica.<br />Equivalencia de expresiones algebraicas en la resolución de problemas basados en relaciones lineales y cuadráticas.<br />Estrategias de búsqueda de soluciones en ecuaciones y sistemas lineales y ecuaciones cuadráticas en situaciones de la vida cotidiana.<br />Ecuaciones: resolución mediante el uso de la tecnología.<br />Relaciones cuantitativas en situaciones de la vida cotidiana y clases de funciones que las modelizan.<br />Relaciones lineales y cuadráticas: identificación y comparación de diferentes modos de representación, tablas, gráficas o expresiones algebraicas, y sus propiedades a partir de ellas.<br />Generalización y transferencia de procesos de resolución de problemas a otras situaciones.</p>
+<p><br /><em>Bloque F. Sentido socioafectivo</em></p>
+<p>Gestión emocional: emociones que intervienen en el aprendizaje de las matemáticas. Autoconciencia y autorregulación.<br />Estrategias de fomento de la curiosidad, la iniciativa, la perseverancia y la resiliencia en el aprendizaje de las matemáticas.<br />Estrategias de fomento de la flexibilidad cognitiva: apertura a cambios de estrategia y transformación del error en oportunidad de aprendizaje.<br />Técnicas cooperativas para optimizar el trabajo en equipo y compartir y construir conocimiento matemático.<br />Conductas empáticas y estrategias de gestión de conflictos.<br />Actitudes inclusivas y aceptación de la diversidad presente en el aula y en la sociedad.<br />La contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774086469271-6wimtdgd3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias clave (perfil de salida)</strong><br /><br /></p>\n<ul>\n<li><em>Competencia en comunicación lingüística (CCL)</em>: el alumnado comprende, interpreta y comunica información matemática en inglés, tanto de forma oral como escrita.</li>\n<li><em>Competencia plurilingüe (CP)</em>: el alumnado utiliza el inglés como lengua vehicular en el aprendizaje matemático, respetando la diversidad lingüística.</li>\n<li><em>Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)</em>: el alumnado aplica el razonamiento matemático para resolver problemas mediante ecuaciones y sistemas de ecuaciones.</li>\n<li><em>Competencia digital (CD)</em>: el alumnado crea contenidos digitales (infografías y vídeos), utilizando herramientas tecnológicas de forma crítica, responsable y creativa.</li>\n<li>Competencia personal, social y de aprender a aprender (CPSAA): el alumnado desarrolla habilidades de trabajo cooperativo, autonomía y autorregulación del aprendizaje.</li>\n<li style=\"text-align: left;\">Competencia ciudadana (CC): el alumnado reflexiona sobre situaciones de desigualdad y organización social inspiradas en Rebelión en la granja.</li>\n<li style=\"text-align: left;\">Competencia emprendedora (CE): el alumnado propone soluciones a problemas y desarrolla iniciativa en la creación de productos digitales.<strong></strong></li>\n</ul>\n<p><strong>Competencias específicas</strong><br /><em>CE1</em>. Interpretar, modelizar y resolver problemas de la vida cotidiana mediante el uso de ecuaciones y sistemas de ecuaciones.<br /><em>CE2</em>. Analizar y verificar la validez de las soluciones obtenidas en problemas matemáticos.<br /><em>CE3</em>. Formular y comprobar conjeturas y plantear problemas a partir de situaciones contextualizadas.<br /><em>CE6</em>. Identificar relaciones entre las matemáticas y otras materias, especialmente en contextos reales.<br /><em>CE7</em>. Representar información matemática utilizando diferentes formatos y herramientas digitales.<br /><em>CE8</em>. Comunicar procesos y resultados matemáticos utilizando un lenguaje adecuado, en este caso en lengua inglesa.<br /><em>CE10</em>. Trabajar de forma cooperativa, participando activamente y respetando las aportaciones del resto del grupo.<br /> <br /><strong>Criterios de evaluación</strong><br /></p>\n<p>1.1. Interpretar problemas matemáticos organizando los datos dados, estableciendo las relaciones entre ellos y comprendiendo las preguntas formuladas.<br />1.2. Aplicar herramientas y estrategias apropiadas que contribuyan a la resolución de problemas.<br />1.3. Obtener soluciones matemáticas de un problema activando los conocimientos y utilizando las herramientas tecnológicas necesarias.</p>\n<p>2.1. Comprobar la corrección matemática de las soluciones de un problema.<br />2.2. Comprobar la validez de las soluciones de un problema y su coherencia en el contexto planteado, evaluando el alcance y repercusión de estas desde diferentes perspectivas.</p>\n<p>3.2. Plantear variantes de un problema dado modificando alguno de sus datos o alguna condición del problema.<br />3.3. Emplear herramientas tecnológicas adecuadas en la investigación y comprobación de conjeturas o problemas.</p>\n<p>6.1. Reconocer situaciones susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo conexiones entre el mundo real y las matemáticas y usando los procesos inherentes a la investigación: inferir, medir, comunicar, clasificar y predecir.<br />6.2. Identificar conexiones coherentes entre las matemáticas y otras materias resolviendo problemas contextualizados.<br />6.3. Reconocer la aportación de las matemáticas al progreso de la humanidad y su contribución a la superación de los retos que demanda la sociedad actual.<br />Competencia específica 7</p>\n<p>7.1. Representar conceptos, procedimientos, información y resultados matemáticos de modos distintos y con diferentes herramientas, incluidas las digitales, visualizando ideas y estructurando procesos matemáticos.<br />7.2. Elaborar representaciones matemáticas que ayuden en la búsqueda de estrategias de resolución de una situación problemática.<br />Competencia específica 8</p>\n<p>8.1. Comunicar información utilizando el lenguaje matemático apropiado, utilizando diferentes medios, incluidos los digitales, oralmente y por escrito, al describir, explicar y justificar razonamientos, procedimientos y conclusiones.<br />8.2. Reconocer y emplear el lenguaje matemático presente en la vida cotidiana comunicando mensajes con contenido matemático con precisión y rigor.<br />Competencia específica 10</p>\n<p>10.1. Colaborar activamente y construir relaciones trabajando con las matemáticas en equipos heterogéneos, respetando diferentes opiniones, comunicándose de manera efectiva, pensando de forma crítica y creativa y tomando decisiones.<br />10.2. Participar en el reparto de tareas que deban desarrollarse en equipo, aportando valor, favoreciendo la inclusión, la escucha activa, asumiendo el rol asignado y responsabilizándose de la propia contribución al equipo.</p>\n<p><br /> <br /><strong>Saberes básicos</strong><br /></p>\n<p><em>Bloque D. Sentido algebraico y pensamiento computacional</em></p>\n<p>Modelización de situaciones de la vida cotidiana usando representaciones matemáticas y el lenguaje algebraico.<br />Estrategias de deducción de conclusiones razonables a partir de un modelo matemático.<br />Variable: comprensión del concepto en sus diferentes naturalezas.<br />Relaciones lineales y cuadráticas en situaciones de la vida cotidiana o matemáticamente relevantes: expresión mediante álgebra simbólica.<br />Equivalencia de expresiones algebraicas en la resolución de problemas basados en relaciones lineales y cuadráticas.<br />Estrategias de búsqueda de soluciones en ecuaciones y sistemas lineales y ecuaciones cuadráticas en situaciones de la vida cotidiana.<br />Ecuaciones: resolución mediante el uso de la tecnología.<br />Relaciones cuantitativas en situaciones de la vida cotidiana y clases de funciones que las modelizan.<br />Relaciones lineales y cuadráticas: identificación y comparación de diferentes modos de representación, tablas, gráficas o expresiones algebraicas, y sus propiedades a partir de ellas.<br />Generalización y transferencia de procesos de resolución de problemas a otras situaciones.</p>\n<p><br /><em>Bloque F. Sentido socioafectivo</em></p>\n<p>Gestión emocional: emociones que intervienen en el aprendizaje de las matemáticas. Autoconciencia y autorregulación.<br />Estrategias de fomento de la curiosidad, la iniciativa, la perseverancia y la resiliencia en el aprendizaje de las matemáticas.<br />Estrategias de fomento de la flexibilidad cognitiva: apertura a cambios de estrategia y transformación del error en oportunidad de aprendizaje.<br />Técnicas cooperativas para optimizar el trabajo en equipo y compartir y construir conocimiento matemático.<br />Conductas empáticas y estrategias de gestión de conflictos.<br />Actitudes inclusivas y aceptación de la diversidad presente en el aula y en la sociedad.<br />La contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f3-hxj76f6gj</odePageId>
+  <odeParentPageId>page-mn0e92er-lfermktx9</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f3-hxj76f6gj</odePageId>
+      <odeBlockId>block-1774087638581-ovy1domll</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f3-hxj76f6gj</odePageId>
+          <odeBlockId>block-1774087638581-ovy1domll</odeBlockId>
+          <odeIdeviceId>idevice-1774087638578-0f1vro8op</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje se emplearán metodologías activas que sitúan al alumnado en el centro del proceso de enseñanza-aprendizaje, favoreciendo su participación, motivación y aprendizaje significativo.</p>
+<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br />El alumnado desarrollará un proyecto en el que deberá crear y resolver problemas matemáticos contextualizados en la obra Rebelión en la granja. Como producto final, elaborará una infografía y un vídeo explicativo, aplicando los contenidos de álgebra en un contexto significativo.</p>
+<p><strong>Aprendizaje cooperativo</strong><br />El alumnado trabajará en grupos heterogéneos de 3 o 4 integrantes, favoreciendo la interacción, el intercambio de ideas y la construcción conjunta del conocimiento. Se fomentará la responsabilidad individual y grupal.</p>
+<p><strong>Aprendizaje basado en el uso de TIC</strong><br />Se integrarán herramientas digitales para la creación de contenidos (infografías y vídeos), promoviendo el desarrollo de la competencia digital y el uso responsable de la tecnología.</p>
+<p><strong>Enfoque interdisciplinar</strong><br />Se establecerá una conexión entre Matemáticas, lengua inglesa y literatura, favoreciendo el aprendizaje contextualizado y significativo.</p>
+<p><strong>Metodología inclusiva (DUA)</strong><br />Se aplicarán principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de acceso a la información, expresión del aprendizaje y motivación, con el fin de atender a la diversidad del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774087638578-0f1vro8op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje se emplearán metodologías activas que sitúan al alumnado en el centro del proceso de enseñanza-aprendizaje, favoreciendo su participación, motivación y aprendizaje significativo.</p>\n<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br />El alumnado desarrollará un proyecto en el que deberá crear y resolver problemas matemáticos contextualizados en la obra Rebelión en la granja. Como producto final, elaborará una infografía y un vídeo explicativo, aplicando los contenidos de álgebra en un contexto significativo.</p>\n<p><strong>Aprendizaje cooperativo</strong><br />El alumnado trabajará en grupos heterogéneos de 3 o 4 integrantes, favoreciendo la interacción, el intercambio de ideas y la construcción conjunta del conocimiento. Se fomentará la responsabilidad individual y grupal.</p>\n<p><strong>Aprendizaje basado en el uso de TIC</strong><br />Se integrarán herramientas digitales para la creación de contenidos (infografías y vídeos), promoviendo el desarrollo de la competencia digital y el uso responsable de la tecnología.</p>\n<p><strong>Enfoque interdisciplinar</strong><br />Se establecerá una conexión entre Matemáticas, lengua inglesa y literatura, favoreciendo el aprendizaje contextualizado y significativo.</p>\n<p><strong>Metodología inclusiva (DUA)</strong><br />Se aplicarán principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de acceso a la información, expresión del aprendizaje y motivación, con el fin de atender a la diversidad del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f5-eqv5pnxpn</odePageId>
+  <odeParentPageId>page-mn0e92er-lfermktx9</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f5-eqv5pnxpn</odePageId>
+      <odeBlockId>block-1774087754447-yu203d3xz</odeBlockId>
+      <blockName>inculación con los proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f5-eqv5pnxpn</odePageId>
+          <odeBlockId>block-1774087754447-yu203d3xz</odeBlockId>
+          <odeIdeviceId>idevice-1774087754445-f2dkmtf4c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje se vincula con distintos planes y programas del centro educativo:</p>
+<p><strong>Programa HABLE</strong>: se integra el uso del inglés como lengua vehicular en el área de Matemáticas, favoreciendo el desarrollo de la competencia plurilingüe del alumnado.<br /><strong>Plan Digital de Centro (PDC)</strong>: se promueve el uso de herramientas digitales para la creación de contenidos (infografías y vídeos), desarrollando la competencia digital del alumnado.<br /><strong>Plan de Lectura del centro</strong>: se establece una conexión directa con la lectura de Rebelión en la granja, fomentando la comprensión lectora y el análisis crítico de textos.<br /><strong>Plan de Atención a la Diversidad (PAD)</strong>: se aplican metodologías inclusivas y principios DUA para atender a la diversidad del alumnado, garantizando la participación de todo el grupo.<br /><strong>Proyecto lingüístico de centro:</strong> se refuerza el uso del inglés en contextos reales de aprendizaje, integrando el lenguaje matemático en lengua extranjera.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774087754445-f2dkmtf4c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje se vincula con distintos planes y programas del centro educativo:</p>\n<p><strong>Programa HABLE</strong>: se integra el uso del inglés como lengua vehicular en el área de Matemáticas, favoreciendo el desarrollo de la competencia plurilingüe del alumnado.<br /><strong>Plan Digital de Centro (PDC)</strong>: se promueve el uso de herramientas digitales para la creación de contenidos (infografías y vídeos), desarrollando la competencia digital del alumnado.<br /><strong>Plan de Lectura del centro</strong>: se establece una conexión directa con la lectura de Rebelión en la granja, fomentando la comprensión lectora y el análisis crítico de textos.<br /><strong>Plan de Atención a la Diversidad (PAD)</strong>: se aplican metodologías inclusivas y principios DUA para atender a la diversidad del alumnado, garantizando la participación de todo el grupo.<br /><strong>Proyecto lingüístico de centro:</strong> se refuerza el uso del inglés en contextos reales de aprendizaje, integrando el lenguaje matemático en lengua extranjera.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f5-v5m8hwskc</odePageId>
+  <odeParentPageId>page-mn0e92er-lfermktx9</odeParentPageId>
+  <pageName>5.  Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.  Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.  Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.  Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f5-v5m8hwskc</odePageId>
+      <odeBlockId>block-1774087868067-i9csaxmj7</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f5-v5m8hwskc</odePageId>
+          <odeBlockId>block-1774087868067-i9csaxmj7</odeBlockId>
+          <odeIdeviceId>idevice-1774087868065-n5ekp3fqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje se enmarca dentro de un enfoque interdisciplinar y coordinado, vinculado al programa bilingüe HABLE, en el que el alumnado trabaja la obra Rebelión en la granja desde distintas materias y lenguas.</p>
+<p>En este sentido, se podrán desarrollar las siguientes actividades complementarias:</p>
+<p><strong>Coordinación con el departamento de Lengua Castellana y Literatura</strong>, donde el alumnado realiza la lectura y análisis de la obra.<br /><strong>Trabajo conjunto con el departamento de Inglés</strong>, desarrollando actividades de comprensión y producción en lengua inglesa, en coherencia con el enfoque bilingüe del programa HABLE.<br /><strong>Vinculación con el departamento de Geografía e Historia</strong>, donde se aborda el contexto histórico y social de la obra, en este caso en lengua francesa.<br /><strong>Colaboración con el departamento de Educación Física</strong>, que trabaja contenidos en lengua inglesa dentro del programa HABLE, incorporando dinámicas de grupo, cooperación y reflexión sobre normas y roles.<br /><strong>Debates en el aula</strong>, en los que el alumnado reflexiona sobre los temas principales de la obra (desigualdad, poder, justicia social), favoreciendo el pensamiento crítico.<br /><strong>Exposición de los productos finales</strong> (infografías y vídeos) en el aula o en plataformas digitales del centro (Teams, aula virtual), fomentando la comunicación y la valoración del trabajo realizado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774087868065-n5ekp3fqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje se enmarca dentro de un enfoque interdisciplinar y coordinado, vinculado al programa bilingüe HABLE, en el que el alumnado trabaja la obra Rebelión en la granja desde distintas materias y lenguas.</p>\n<p>En este sentido, se podrán desarrollar las siguientes actividades complementarias:</p>\n<p><strong>Coordinación con el departamento de Lengua Castellana y Literatura</strong>, donde el alumnado realiza la lectura y análisis de la obra.<br /><strong>Trabajo conjunto con el departamento de Inglés</strong>, desarrollando actividades de comprensión y producción en lengua inglesa, en coherencia con el enfoque bilingüe del programa HABLE.<br /><strong>Vinculación con el departamento de Geografía e Historia</strong>, donde se aborda el contexto histórico y social de la obra, en este caso en lengua francesa.<br /><strong>Colaboración con el departamento de Educación Física</strong>, que trabaja contenidos en lengua inglesa dentro del programa HABLE, incorporando dinámicas de grupo, cooperación y reflexión sobre normas y roles.<br /><strong>Debates en el aula</strong>, en los que el alumnado reflexiona sobre los temas principales de la obra (desigualdad, poder, justicia social), favoreciendo el pensamiento crítico.<br /><strong>Exposición de los productos finales</strong> (infografías y vídeos) en el aula o en plataformas digitales del centro (Teams, aula virtual), fomentando la comunicación y la valoración del trabajo realizado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f7-n7p2oa5pl</odePageId>
+  <odeParentPageId>page-mn0e92er-lfermktx9</odeParentPageId>
+  <pageName>6. Atribución y licencia</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Attribution and download</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y licencia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f7-n7p2oa5pl</odePageId>
+      <odeBlockId>block-1774089882551-2w1xcw7xr</odeBlockId>
+      <blockName>Atribución y licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f7-n7p2oa5pl</odePageId>
+          <odeBlockId>block-1774089882551-2w1xcw7xr</odeBlockId>
+          <odeIdeviceId>idevice-1774089882548-13zc67v7a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso educativo abierto (REA) ha sido elaborado para su uso en el aula en la materia de Matemáticas de 2º de ESO.</p>
+<p>Se distribuye bajo licencia:</p>
+<p>Creative Commons Reconocimiento-Compartir Igual 4.0 (CC BY-SA 4.0)</p>
+<p>Se permite su uso, modificación y distribución siempre que se reconozca la autoría y se comparta bajo la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774089882548-13zc67v7a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo abierto (REA) ha sido elaborado para su uso en el aula en la materia de Matemáticas de 2º de ESO.</p>\n<p>Se distribuye bajo licencia:</p>\n<p>Creative Commons Reconocimiento-Compartir Igual 4.0 (CC BY-SA 4.0)</p>\n<p>Se permite su uso, modificación y distribución siempre que se reconozca la autoría y se comparta bajo la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f7-jsy9p1tb5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA ALUMNADO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SA ALUMNADO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f7-jsy9p1tb5</odePageId>
+      <odeBlockId>block-1774096262177-za9l50i8q</odeBlockId>
+      <blockName>SA ALUMNADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f7-jsy9p1tb5</odePageId>
+          <odeBlockId>block-1774096262177-za9l50i8q</odeBlockId>
+          <odeIdeviceId>idevice-1774096262173-ah78evzyd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vas a trabajar a partir de la obra Rebelión en la granja, que también estás abordando en otras materias del centro.</p>
+<p>A lo largo de este proyecto aplicarás contenidos de Matemáticas para comprender situaciones relacionadas con la desigualdad, la distribución de recursos y las relaciones de poder. Para ello, resolverás problemas de ecuaciones y sistemas de ecuaciones contextualizados en la obra.</p>
+<p><strong>Temporalización</strong><br />Esta situación de aprendizaje se desarrollará en 3 sesiones de 55 minutos en el aula, combinadas con trabajo autónomo fuera del horario lectivo.</p>
+<p><em>Sesión 1:</em> Introducción al proyecto, contextualización en Rebelión en la granja y planteamiento de los problemas matemáticos.<br /><em>Sesión 2: </em>Resolución de ecuaciones y sistemas en grupo y diseño de los productos.<br /><em>Sesión 3:</em> Exposición de resultados y presentación de los productos finales.<br />El desarrollo de la infografía y la grabación del vídeo se completará en casa, fomentando la autonomía y el uso responsable de herramientas digitales.</p>
+<p><strong><em>Importante</em></strong><br />⚠️ Todos los productos y actividades evaluables deberán realizarse en inglés, tanto en formato escrito como oral.</p>
+<p>All tasks and final products must be completed in English, both written and oral.<br /> <br /><strong>¿Cómo vas a trabajar?</strong><br />A lo largo de esta situación de aprendizaje trabajarás:</p>
+<ul>
+<li>De forma individual</li>
+<li>Por parejas</li>
+<li>En grupos cooperativos</li>
+<li>Además, utilizarás herramientas digitales para crear los productos finales y entregar las tareas.</li>
+</ul>
+<p><strong>¿Qué vas a entregar?</strong><br />Al finalizar esta situación de aprendizaje deberás elaborar:</p>
+<ol>
+<li>Un problema de ecuación de primer grado</li>
+<li>Un problema de sistema de ecuaciones</li>
+<li>Una infografía con algún elemento interactivo</li>
+<li>Un vídeo explicativo en inglés</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774096262173-ah78evzyd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vas a trabajar a partir de la obra Rebelión en la granja, que también estás abordando en otras materias del centro.</p>\n<p>A lo largo de este proyecto aplicarás contenidos de Matemáticas para comprender situaciones relacionadas con la desigualdad, la distribución de recursos y las relaciones de poder. Para ello, resolverás problemas de ecuaciones y sistemas de ecuaciones contextualizados en la obra.</p>\n<p><strong>Temporalización</strong><br />Esta situación de aprendizaje se desarrollará en 3 sesiones de 55 minutos en el aula, combinadas con trabajo autónomo fuera del horario lectivo.</p>\n<p><em>Sesión 1:</em> Introducción al proyecto, contextualización en Rebelión en la granja y planteamiento de los problemas matemáticos.<br /><em>Sesión 2: </em>Resolución de ecuaciones y sistemas en grupo y diseño de los productos.<br /><em>Sesión 3:</em> Exposición de resultados y presentación de los productos finales.<br />El desarrollo de la infografía y la grabación del vídeo se completará en casa, fomentando la autonomía y el uso responsable de herramientas digitales.</p>\n<p><strong><em>Importante</em></strong><br />⚠️ Todos los productos y actividades evaluables deberán realizarse en inglés, tanto en formato escrito como oral.</p>\n<p>All tasks and final products must be completed in English, both written and oral.<br /> <br /><strong>¿Cómo vas a trabajar?</strong><br />A lo largo de esta situación de aprendizaje trabajarás:</p>\n<ul>\n<li>De forma individual</li>\n<li>Por parejas</li>\n<li>En grupos cooperativos</li>\n<li>Además, utilizarás herramientas digitales para crear los productos finales y entregar las tareas.</li>\n</ul>\n<p><strong>¿Qué vas a entregar?</strong><br />Al finalizar esta situación de aprendizaje deberás elaborar:</p>\n<ol>\n<li>Un problema de ecuación de primer grado</li>\n<li>Un problema de sistema de ecuaciones</li>\n<li>Una infografía con algún elemento interactivo</li>\n<li>Un vídeo explicativo en inglés</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f9-q8w0tz6ya</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>1. Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f9-q8w0tz6ya</odePageId>
+      <odeBlockId>block-1774096941146-1g15919j6</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f9-q8w0tz6ya</odePageId>
+          <odeBlockId>block-1774096941146-1g15919j6</odeBlockId>
+          <odeIdeviceId>idevice-1774096941144-20wt0viku</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje trabajarás a partir de la obra Animal Farm, que estás leyendo en inglés dentro del programa bilingüe.</p>
+<p>Este proyecto se conecta con otras materias en las que también estás trabajando la obra, lo que permite comprenderla desde diferentes perspectivas.</p>
+<p><strong>¿Por qué es importante?</strong><br />A través de Animal Farm, analizarás situaciones relacionadas con la desigualdad, el poder y la distribución de recursos, y las relacionarás con contenidos matemáticos. Las matemáticas te permitirán interpretar estas situaciones mediante ecuaciones y sistemas de ecuaciones, desarrollando tu capacidad de razonamiento y pensamiento crítico.</p>
+<p> <strong>Trabajo en equipo</strong><br />Durante el desarrollo de esta situación de aprendizaje trabajarás de forma cooperativa con tu grupo, compartiendo ideas, resolviendo problemas y creando productos digitales.</p>
+<p> <strong>Importante</strong><br />⚠️ El libro Animal Farm se trabaja en inglés, y los productos finales de esta situación de aprendizaje deberán realizarse en inglés.</p>
+<p><strong>Herramientas</strong><br />Utilizarás herramientas digitales como:</p>
+<p>Canva o Genially<br />PowerPoint<br />Dispositivos móviles para grabar<br />Plataforma digital (Teams o aula virtual)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774096941144-20wt0viku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje trabajarás a partir de la obra Animal Farm, que estás leyendo en inglés dentro del programa bilingüe.</p>\n<p>Este proyecto se conecta con otras materias en las que también estás trabajando la obra, lo que permite comprenderla desde diferentes perspectivas.</p>\n<p><strong>¿Por qué es importante?</strong><br />A través de Animal Farm, analizarás situaciones relacionadas con la desigualdad, el poder y la distribución de recursos, y las relacionarás con contenidos matemáticos. Las matemáticas te permitirán interpretar estas situaciones mediante ecuaciones y sistemas de ecuaciones, desarrollando tu capacidad de razonamiento y pensamiento crítico.</p>\n<p> <strong>Trabajo en equipo</strong><br />Durante el desarrollo de esta situación de aprendizaje trabajarás de forma cooperativa con tu grupo, compartiendo ideas, resolviendo problemas y creando productos digitales.</p>\n<p> <strong>Importante</strong><br />⚠️ El libro Animal Farm se trabaja en inglés, y los productos finales de esta situación de aprendizaje deberán realizarse en inglés.</p>\n<p><strong>Herramientas</strong><br />Utilizarás herramientas digitales como:</p>\n<p>Canva o Genially<br />PowerPoint<br />Dispositivos móviles para grabar<br />Plataforma digital (Teams o aula virtual)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92f9-vm83mbzi3</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>2. ¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92f9-vm83mbzi3</odePageId>
+      <odeBlockId>block-1774097158649-j365l6c1a</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92f9-vm83mbzi3</odePageId>
+          <odeBlockId>block-1774097158649-j365l6c1a</odeBlockId>
+          <odeIdeviceId>idevice-1774097158648-lj0ihpqup</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué vamos a aprender?</strong><br />En esta situación de aprendizaje aprenderás a:</p>
+<p>Resolver ecuaciones de primer grado<br />Resolver sistemas de ecuaciones<br />Aplicar las matemáticas a situaciones reales inspiradas en Animal Farm<br />Interpretar problemas relacionados con la desigualdad y la distribución de recursos<br />Trabajar de forma cooperativa con tus compañeros y compañeras<br />Utilizar herramientas digitales para crear contenidos<br />Explicar procesos matemáticos de forma clara<br /> <br />🌍 <strong>Importante</strong><br />⚠️ Las explicaciones y productos finales deberán realizarse en inglés.</p>
+<p><br />💡 <strong>¿Para qué te servirá?</strong><br />Este aprendizaje te ayudará a:</p>
+<p>Comprender mejor situaciones reales<br />Desarrollar el pensamiento crítico<br />Aplicar las matemáticas fuera del aula<br />Mejorar tu comunicación en inglés</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774097158648-lj0ihpqup","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué vamos a aprender?</strong><br />En esta situación de aprendizaje aprenderás a:</p>\n<p>Resolver ecuaciones de primer grado<br />Resolver sistemas de ecuaciones<br />Aplicar las matemáticas a situaciones reales inspiradas en Animal Farm<br />Interpretar problemas relacionados con la desigualdad y la distribución de recursos<br />Trabajar de forma cooperativa con tus compañeros y compañeras<br />Utilizar herramientas digitales para crear contenidos<br />Explicar procesos matemáticos de forma clara<br /> <br />🌍 <strong>Importante</strong><br />⚠️ Las explicaciones y productos finales deberán realizarse en inglés.</p>\n<p><br />💡 <strong>¿Para qué te servirá?</strong><br />Este aprendizaje te ayudará a:</p>\n<p>Comprender mejor situaciones reales<br />Desarrollar el pensamiento crítico<br />Aplicar las matemáticas fuera del aula<br />Mejorar tu comunicación en inglés</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92fb-lxafs9lnj</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>3. Actividades</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92fb-lxafs9lnj</odePageId>
+      <odeBlockId>block-1774097316673-ofaoiun00</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92fb-lxafs9lnj</odePageId>
+          <odeBlockId>block-1774097316673-ofaoiun00</odeBlockId>
+          <odeIdeviceId>idevice-1774097316672-qgkolldyt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividades<br />Durante esta situación de aprendizaje realizarás las siguientes actividades:</p>
+<p> <br /><strong>Actividad 1: Comprensión del contexto</strong><br />Lectura y análisis de situaciones inspiradas en Animal Farm.<br />Identificación de relaciones entre los personajes, los recursos y las situaciones de desigualdad.</p>
+<p> <br /><strong>Actividad 2: Resolución de ecuaciones</strong><br />Resolución de problemas de ecuaciones de primer grado relacionados con situaciones de la obra. Antes de realizar las actividades, visualiza el siguiente vídeo para repasar la resolución de ecuaciones y sistemas.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/j3XL-2CzgbE" allowfullscreen="allowfullscreen"></iframe></p>
+<p>📌 Se realizará:</p>
+<p>En el cuaderno<br />En el aula<br /> <br /><strong>Actividad 3: Sistemas de ecuaciones</strong><br />Resolución de problemas mediante sistemas de ecuaciones, aplicados a situaciones de reparto de recursos o número de animales.</p>
+<p>📌 Se realizará:</p>
+<p>En grupo<br />En el aula<br /> <br /><strong>Actividad 4: Creación de problemas</strong><br />En grupo, deberás crear:</p>
+<p>Un problema de ecuación<br />Un problema de sistema de ecuaciones<br />Ambos deberán estar relacionados con Animal Farm.</p>
+<p> <br /><strong>Actividad 5: Desarrollo del producto final</strong><br />En grupo, comenzarás a diseñar:</p>
+<p>La infografía<br />El vídeo<br />Este trabajo se completará en casa.</p>
+<p> <br />💻 <strong>Soporte digital</strong><br />Para realizar las actividades utilizarás:</p>
+<p>Cuaderno<br />Plataforma digital (Teams / Aula Virtual)<br />Herramientas digitales (Canva, Genially, PowerPoint, etc.)<br /> <br />🌍<strong> Importante</strong><br />⚠️ Todas las actividades evaluables deberán realizarse en inglés.</p>
+<p>♿ Trabajo inclusivo<br />Se trabajará en diferentes agrupamientos (individual, parejas y grupos) para facilitar la participación de todo el alumnado.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774097316672-qgkolldyt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividades<br />Durante esta situación de aprendizaje realizarás las siguientes actividades:</p>\n<p> <br /><strong>Actividad 1: Comprensión del contexto</strong><br />Lectura y análisis de situaciones inspiradas en Animal Farm.<br />Identificación de relaciones entre los personajes, los recursos y las situaciones de desigualdad.</p>\n<p> <br /><strong>Actividad 2: Resolución de ecuaciones</strong><br />Resolución de problemas de ecuaciones de primer grado relacionados con situaciones de la obra. Antes de realizar las actividades, visualiza el siguiente vídeo para repasar la resolución de ecuaciones y sistemas.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/j3XL-2CzgbE\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>📌 Se realizará:</p>\n<p>En el cuaderno<br />En el aula<br /> <br /><strong>Actividad 3: Sistemas de ecuaciones</strong><br />Resolución de problemas mediante sistemas de ecuaciones, aplicados a situaciones de reparto de recursos o número de animales.</p>\n<p>📌 Se realizará:</p>\n<p>En grupo<br />En el aula<br /> <br /><strong>Actividad 4: Creación de problemas</strong><br />En grupo, deberás crear:</p>\n<p>Un problema de ecuación<br />Un problema de sistema de ecuaciones<br />Ambos deberán estar relacionados con Animal Farm.</p>\n<p> <br /><strong>Actividad 5: Desarrollo del producto final</strong><br />En grupo, comenzarás a diseñar:</p>\n<p>La infografía<br />El vídeo<br />Este trabajo se completará en casa.</p>\n<p> <br />💻 <strong>Soporte digital</strong><br />Para realizar las actividades utilizarás:</p>\n<p>Cuaderno<br />Plataforma digital (Teams / Aula Virtual)<br />Herramientas digitales (Canva, Genially, PowerPoint, etc.)<br /> <br />🌍<strong> Importante</strong><br />⚠️ Todas las actividades evaluables deberán realizarse en inglés.</p>\n<p>♿ Trabajo inclusivo<br />Se trabajará en diferentes agrupamientos (individual, parejas y grupos) para facilitar la participación de todo el alumnado.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92fc-q5hiusfc6</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>4. Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92fc-q5hiusfc6</odePageId>
+      <odeBlockId>block-1774097457742-8w4r4t3tf</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92fc-q5hiusfc6</odePageId>
+          <odeBlockId>block-1774097457742-8w4r4t3tf</odeBlockId>
+          <odeIdeviceId>idevice-1774097457740-0olvfudjf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al finalizar esta situación de aprendizaje deberás elaborar los siguientes productos:</p>
+<p> <strong>Productos obligatorios</strong><br />✔ Una infografía digital con algún elemento interactivo (enlaces, botones, etc.)<br />✔ Un vídeo explicativo<br /> <br /><strong>Contenido</strong><br />Los productos deberán:</p>
+<p>Estar basados en Animal Farm<br />Incluir un problema de ecuación y otro de sistema de ecuaciones<br />Explicar el proceso de resolución paso a paso<br />Mostrar la relación con situaciones de la obra (reparto, desigualdad, etc.)<br /> <br /><strong>Importante</strong><br />⚠️ Todos los productos deberán realizarse en inglés.</p>
+<p><br /><strong>Herramientas</strong><br />Podrás utilizar:</p>
+<p>Canva<br />Genially<br />PowerPoint<br />Dispositivos móviles para grabar el vídeo</p>
+<p><strong>Trabajo en casa</strong><br />Parte del desarrollo del producto final se realizará fuera del aula, fomentando la autonomía y el uso responsable de herramientas digitales.</p>
+<p> <br /><strong>Trabajo en grupo</strong><br />El producto se realizará en grupo, por lo que todos los miembros deberán participar activamente.</p>
+<p><strong>Entrega del producto</strong><br />Los productos finales deberán entregarse a través del Teams</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774097457740-0olvfudjf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar esta situación de aprendizaje deberás elaborar los siguientes productos:</p>\n<p> <strong>Productos obligatorios</strong><br />✔ Una infografía digital con algún elemento interactivo (enlaces, botones, etc.)<br />✔ Un vídeo explicativo<br /> <br /><strong>Contenido</strong><br />Los productos deberán:</p>\n<p>Estar basados en Animal Farm<br />Incluir un problema de ecuación y otro de sistema de ecuaciones<br />Explicar el proceso de resolución paso a paso<br />Mostrar la relación con situaciones de la obra (reparto, desigualdad, etc.)<br /> <br /><strong>Importante</strong><br />⚠️ Todos los productos deberán realizarse en inglés.</p>\n<p><br /><strong>Herramientas</strong><br />Podrás utilizar:</p>\n<p>Canva<br />Genially<br />PowerPoint<br />Dispositivos móviles para grabar el vídeo</p>\n<p><strong>Trabajo en casa</strong><br />Parte del desarrollo del producto final se realizará fuera del aula, fomentando la autonomía y el uso responsable de herramientas digitales.</p>\n<p> <br /><strong>Trabajo en grupo</strong><br />El producto se realizará en grupo, por lo que todos los miembros deberán participar activamente.</p>\n<p><strong>Entrega del producto</strong><br />Los productos finales deberán entregarse a través del Teams</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92fc-rwofsqxrp</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>5. Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92fc-rwofsqxrp</odePageId>
+      <odeBlockId>block-1774098034371-3rs75zwdj</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92fc-rwofsqxrp</odePageId>
+          <odeBlockId>block-1774098034371-3rs75zwdj</odeBlockId>
+          <odeIdeviceId>idevice-1774098034369-phgyob2vn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación se centrará en los productos finales y en la exposición realizada en el aula.</p>
+<p> <strong>¿Qué se va a evaluar?</strong><br />La correcta resolución de los problemas planteados<br />La aplicación de ecuaciones y sistemas de ecuaciones<br />La claridad en la explicación del proceso<br />La relación con situaciones de Animal Farm<br />La calidad de la infografía<br />La claridad y organización del vídeo<br />La exposición oral en clase<br />El trabajo en grupo y la participación de todos los miembros<br />La originalidad y creatividad en los productos<br /></p>
+<p><strong>Instrumento de evaluación</strong><br />Se utilizará una rúbrica única para evaluar:</p>
+<p>La infografía<br />El vídeo<br />La exposición oral<br />El trabajo cooperativo<br /> <br /><strong>Criterios de la rúbrica</strong><br />La rúbrica será</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p><strong>PONDERACIÓN</strong><br />Infografía + vídeo (producto final): 80%<br />Exposición oral: 10%<br />Trabajo en grupo y participación: 10%<br /> <br /><strong>Importante</strong><br />Se evaluará el uso del inglés en los productos y en la exposición oral.</p>
+<p><strong>Momento de evaluación</strong><br />La entrega del producto final<br />La exposición en el aula<br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774098034369-phgyob2vn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se centrará en los productos finales y en la exposición realizada en el aula.</p>\n<p> <strong>¿Qué se va a evaluar?</strong><br />La correcta resolución de los problemas planteados<br />La aplicación de ecuaciones y sistemas de ecuaciones<br />La claridad en la explicación del proceso<br />La relación con situaciones de Animal Farm<br />La calidad de la infografía<br />La claridad y organización del vídeo<br />La exposición oral en clase<br />El trabajo en grupo y la participación de todos los miembros<br />La originalidad y creatividad en los productos<br /></p>\n<p><strong>Instrumento de evaluación</strong><br />Se utilizará una rúbrica única para evaluar:</p>\n<p>La infografía<br />El vídeo<br />La exposición oral<br />El trabajo cooperativo<br /> <br /><strong>Criterios de la rúbrica</strong><br />La rúbrica será</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p><strong>PONDERACIÓN</strong><br />Infografía + vídeo (producto final): 80%<br />Exposición oral: 10%<br />Trabajo en grupo y participación: 10%<br /> <br /><strong>Importante</strong><br />Se evaluará el uso del inglés en los productos y en la exposición oral.</p>\n<p><strong>Momento de evaluación</strong><br />La entrega del producto final<br />La exposición en el aula<br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92fe-bje88izru</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>6. Juego 1</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Juego 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Juego 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Juego 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92fe-bje88izru</odePageId>
+      <odeBlockId>block-1774100358416-u8147jki3</odeBlockId>
+      <blockName>Descubre</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92fe-bje88izru</odePageId>
+          <odeBlockId>block-1774100358416-u8147jki3</odeBlockId>
+          <odeIdeviceId>idevice-1774100358414-e0d8yb3kb</odeIdeviceId>
+          <odeIdeviceTypeName>discover</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="descubre-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1774100358414-e0d8yb3kb" data-evaluationb="false" data-evaluationid="720a5b24-c883-419f-bda7-4b7d409f8d2e"></div><div class="descubre-feedback-game"></div><div class="descubre-instructions"><p>Match each method with its correct definition.</p></div><div class="descubre-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F1%E7%F0%E0%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DF%F3%E6%F1%FA%B2%F7%F3%F1%FA%B2%FF%F7%E6%FA%FD%F6%B2%E5%FB%E6%FA%B2%FB%E6%E1%B2%F1%FD%E0%E0%F7%F1%E6%B2%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%C1%E7%F0%E1%E6%FB%E6%E7%E6%FB%FD%FC%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%C0%F7%E2%FE%F3%F1%F7%B2%FD%FC%F7%B2%E4%F3%E0%FB%F3%F0%FE%F7%B2%E5%FB%E6%FA%B2%F3%FC%B2%F7%EA%E2%E0%F7%E1%E1%FB%FD%FC%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%BE%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%D7%FE%FB%FF%FB%FC%F3%E6%FB%FD%FC%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%D3%F6%F6%B2%FD%E0%B2%E1%E7%F0%E6%E0%F3%F1%E6%B2%F7%E3%E7%F3%E6%FB%FD%FC%E1%B2%E6%FD%B2%F7%FE%FB%FF%FB%FC%F3%E6%F7%B2%F3%B2%E4%F3%E0%FB%F3%F0%FE%F7%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%BE%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%D7%E3%E7%F3%FE%FB%E1%F3%E6%FB%FD%FC%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%DF%F3%F9%F7%B2%E6%E5%FD%B2%F7%E3%E7%F3%E6%FB%FD%FC%E1%B2%F7%E3%E7%F3%FE%B2%E6%FD%B2%E1%FD%FE%E4%F7%B2%E6%FA%F7%FF%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%BE%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%DF%F3%F9%F7%B2%E6%E5%FD%B2%F7%E3%E7%F3%E6%FB%FD%FC%E1%B2%F7%E3%E7%F3%FE%B2%E6%FD%B2%E1%FD%FE%E4%F7%B2%E6%FA%F7%FF%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%C6%E5%FD%B2%FD%E0%B2%FF%FD%E0%F7%B2%F7%E3%E7%F3%E6%FB%FD%FC%E1%B2%E1%FD%FE%E4%F7%F6%B2%E6%FD%F5%F7%E6%FA%F7%E0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A2%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A2%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%E1%B0%A8%A3%BE%B0%E1%FA%FD%E5%D1%F3%E0%F6%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%A0%A2%F3%A7%F0%A0%A6%BF%F1%AA%AA%A1%BF%A6%A3%AB%F4%BF%F0%F6%F3%A5%BF%A6%F0%A5%F6%A6%A2%AB%F4%AA%F6%A0%F7%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A6%A3%A2%A2%A1%A7%AA%A6%A3%A6%BF%F7%A2%F6%AA%EB%F0%A1%F9%F0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D3%E6%E6%F7%FF%E2%E1%B0%A8%B03%DA%F3%E1%B2%F3%F5%FD%E6%F3%F6%FD%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%B3%B2%C2%E0%E7%F7%F0%F3%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%D1%F3%E0%F6%E1%B0%A8%B03%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%E0%F7%F8%F3%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C6%E0%FB%FD%E1%B0%A8%B03%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E6%E0%7F%FD%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F3%E0%E6%F7%E6%E1%B0%A8%B03%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%FD%E1%B2%F1%E7%F3%E0%E6%F7%E6%FD%E1%B3%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%F6%FD%E1%B2%F1%F3%E0%E6%F3%E1%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%A1%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E6%E0%F7%E1%B2%F1%F3%E0%E6%F3%E1%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%A6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%F1%E7%F3%E6%E0%FD%B2%F1%F3%E0%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%F3%FB%E0%E1%B0%A8%B0%C2%F3%E0%F7%F8%F3%E1%B0%BE%B0%FF%E1%F5%C6%E0%FB%FD%E1%B0%A8%B0%C6%E0%7F%FD%E1%B0%BE%B0%FF%E1%F5%C3%E7%F3%E0%E6%E1%B0%A8%B0%D1%E7%F3%E0%E6%F7%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E6%E1%B0%A8%B0%DB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%F3%FB%E0%B0%A8%B0%C7%FC%F3%B2%E2%F3%E0%F7%F8%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%BC%B23%D3%B2%E2%FD%E0%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B3%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%F6%C6%E0%FB%FD%B0%A8%B0%C7%FC%B2%E6%E0%7F%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%BC%B23%D3%B2%E2%FD%E0%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B3%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%F6%C3%E7%F3%E0%E6%F7%E6%B0%A8%B0%C7%FC%B2%F1%E7%F3%E0%E6%F7%E6%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%BC%B23%D3%B2%E2%FD%E0%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%FD%FD%F9%FB%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%FE%B0%BE%B0%FF%E1%F5%D7%EA%E2%F7%E0%E6%B0%A8%B0%DF%F7%F6%FB%FD%B0%BE%B0%FF%E1%F5%DF%F3%E1%E6%F7%E0%B0%A8%B0%D3%E4%F3%FC%E8%F3%F6%FD%B0%BE%B0%FF%E1%F5%DE%F7%E4%F7%FE%B0%A8%B0%DC%FB%E4%F7%FE%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%DE%F7%E4%F7%FE%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%B2%FC%FB%E4%F7%FE%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F1%E7%F0%E0%F7%B0%EF%EF</div><div class="descubre-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92ff-2tidh2d8c</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>7. Juego 2</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Juego 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Juego 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92ff-2tidh2d8c</odePageId>
+      <odeBlockId>block-1774101144244-p67w32xi3</odeBlockId>
+      <blockName>Math vocabulary</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92ff-2tidh2d8c</odePageId>
+          <odeBlockId>block-1774101144244-p67w32xi3</odeBlockId>
+          <odeIdeviceId>idevice-1774101144243-rdsmgl0xh</odeIdeviceId>
+          <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="crucigrama-IDevice">
+       <div class="game-evaluation-ids js-hidden" data-id="idevice-1774101144243-rdsmgl0xh" data-evaluationb="false" data-evaluationid="720a5b24-c883-419f-bda7-4b7d409f8d2e"></div>
+            <div class="crucigrama-version js-hidden">1</div>
+            <div class="crucigrama-feedback-game"></div>
+            <div class="crucigrama-instructions gameQP-instructions"><p>Completa el siguiente crucigrama.</p></div>
+            <div class="crucigrama-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%F1%E0%E7%F1%FB%F5%E0%F3%FF%F3%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C4%D3%C0%DB%D3%D0%DE%D7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%B2%FE%F7%E6%E6%F7%E0%B2%E6%FA%F3%E6%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%E1%B2%F3%FC%B2%E7%FC%F9%FC%FD%E5%FC%B2%E4%F3%FE%E7%F7%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%C3%C7%D3%C6%DB%DD%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%B2%FF%F3%E6%FA%F7%FF%F3%E6%FB%F1%F3%FE%B2%E1%E6%F3%E6%F7%FF%F7%FC%E6%B2%E6%FA%F3%E6%B2%E1%FA%FD%E5%E1%B2%F7%E3%E7%F3%FE%FB%E6%EB%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%DD%DE%C7%C6%DB%DD%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%FA%F7%B2%E4%F3%FE%E7%F7%B2%E6%FA%F3%E6%B2%FF%F3%F9%F7%E1%B2%F3%FC%B2%F7%E3%E7%F3%E6%FB%FD%FC%B2%E6%E0%E7%F7%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%CB%C1%C6%D7%DF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%E5%FD%B2%FD%E0%B2%FF%FD%E0%F7%B2%F7%E3%E7%F3%E6%FB%FD%FC%E1%B2%E1%FD%FE%E4%F7%F6%B2%E6%FD%F5%F7%E6%FA%F7%E0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%DE%DB%DF%DB%DC%D3%C6%DB%DD%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%F7%E6%FA%FD%F6%B2%E5%FA%F7%E0%F7%B2%F7%E3%E7%F3%E6%FB%FD%FC%E1%B2%F3%E0%F7%B2%F3%F6%F6%F7%F6%B2%FD%E0%B2%E1%E7%F0%E6%E0%F3%F1%E6%F7%F6%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FE%F6%F7%B0%A8%E6%E0%E7%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%A0%A2%F3%A7%F0%A0%A6%BF%F1%AA%AA%A1%BF%A6%A3%AB%F4%BF%F0%F6%F3%A5%BF%A6%F0%A5%F6%A6%A2%AB%F4%AA%F6%A0%F7%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%A3%A2%A2%B0%BE%B0%F6%FB%F4%F4%FB%F1%E7%FE%E6%EB%B0%A8%B0%A3%A2%A2%B0%BE%B0%E6%FB%FF%F7%B0%A8%B0%A2%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A6%A3%A2%A3%A3%A6%A6%A0%A6%A1%BF%E0%F6%E1%FF%F5%FE%A2%EA%FA%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%E6%F7%E0%FF%FB%FC%F3%F6%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B2%D3%F1%FB%F7%E0%E6%FD%E1%A8%B2%B7%E1%B2%F6%F7%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%C5%FD%E0%F6%B0%A8%B0%DA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F1%E7%F3%F6%E0%F3%F6%FD%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%E2%F3%E0%F3%B2%E4%F7%E0%B2%FE%F3%B2%F6%F7%F4%FB%FC%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%E1%B0%A8%B0%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C4%F7%E0%E6%FB%F1%F3%FE%E1%B0%A8%B0%C4%F7%E0%E6%FB%F1%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%F6%F7%F4%FB%FC%FB%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D0%F3%F1%F9%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B2%F6%F7%B2%F4%FD%FC%F6%FD%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B0%EF%EF</div>
+            
+            
+            
+            
+            <div class="crucigrama-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+        </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92fg-ze09am9by</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>8. Diccionario</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Diccionario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Diccionario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Diccionario</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92fg-ze09am9by</odePageId>
+      <odeBlockId>block-1774099576390-6f2dd1x0m</odeBlockId>
+      <blockName>Diccionario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92fg-ze09am9by</odePageId>
+          <odeBlockId>block-1774099576390-6f2dd1x0m</odeBlockId>
+          <odeIdeviceId>idevice-1774099576387-hc4koj91t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this project, it is important to understand and use mathematical vocabulary correctly in English. Below you can find a glossary of key terms that will help you complete the activities and explain your results clearly.</p>
+<p><strong>Key vocabulary</strong><br /><em>Equation</em><br />A mathematical statement that shows that two expressions are equal.<br />👉 Example: 2x + 3 = 7</p>
+<p><em>System of equations</em><br />A set of two or more equations that are solved together.</p>
+<p><em>Solution</em><br />The value (or values) that make an equation true.</p>
+<p><em>Variable</em><br />A letter (usually x or y) that represents an unknown value.</p>
+<p> <em>Inequality</em><br />A mathematical expression that shows that two values are not equal.<br />👉 Symbols: >, <, ≥, ≤</p>
+<p><em>Solve</em><br />To find the value of the variable.</p>
+<p><em>Substitution method</em><br />A method to solve systems by replacing one variable with an expression.</p>
+<p><em>Elimination method</em><br />A method to solve systems by adding or subtracting equations.</p>
+<p><em>Graphical method</em><br />A method to solve systems by drawing the equations and finding the intersection point.</p>
+<p><em>Power of 10</em><br />A number written as 10 raised to an exponent.<br />👉 Example: 10² = 100</p>
+<p><em>Infographic</em><br />A visual representation of information using images, text and data.</p>
+<p><em>Presentation</em><br />Explaining your work to others using clear language and structure.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774099576387-hc4koj91t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this project, it is important to understand and use mathematical vocabulary correctly in English. Below you can find a glossary of key terms that will help you complete the activities and explain your results clearly.</p>\n<p><strong>Key vocabulary</strong><br /><em>Equation</em><br />A mathematical statement that shows that two expressions are equal.<br />👉 Example: 2x + 3 = 7</p>\n<p><em>System of equations</em><br />A set of two or more equations that are solved together.</p>\n<p><em>Solution</em><br />The value (or values) that make an equation true.</p>\n<p><em>Variable</em><br />A letter (usually x or y) that represents an unknown value.</p>\n<p> <em>Inequality</em><br />A mathematical expression that shows that two values are not equal.<br />👉 Symbols: >, <, ≥, ≤</p>\n<p><em>Solve</em><br />To find the value of the variable.</p>\n<p><em>Substitution method</em><br />A method to solve systems by replacing one variable with an expression.</p>\n<p><em>Elimination method</em><br />A method to solve systems by adding or subtracting equations.</p>\n<p><em>Graphical method</em><br />A method to solve systems by drawing the equations and finding the intersection point.</p>\n<p><em>Power of 10</em><br />A number written as 10 raised to an exponent.<br />👉 Example: 10² = 100</p>\n<p><em>Infographic</em><br />A visual representation of information using images, text and data.</p>\n<p><em>Presentation</em><br />Explaining your work to others using clear language and structure.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn0e92fh-2lc3ecrw7</odePageId>
+  <odeParentPageId>page-mn0e92f7-jsy9p1tb5</odeParentPageId>
+  <pageName>Descarga del recurso</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga del recurso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga del recurso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn0e92fh-2lc3ecrw7</odePageId>
+      <odeBlockId>block-1774090086245-mxvhhwwsa</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn0e92fh-2lc3ecrw7</odePageId>
+          <odeBlockId>block-1774090086245-mxvhhwwsa</odeBlockId>
+          <odeIdeviceId>idevice-1774090086242-s2sv8qsmd</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Animal Farm with maths</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Irene Alonso Canella</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p>Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
