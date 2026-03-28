@@ -134,6 +134,7 @@ window.__ELPX_MANIFEST__={
     "content/resources/SDA_2ESO_Maths_AnimalFarm_HABLE.elp.elpx",
     "content/resources/mceclip0.png",
     "content/resources/mceclip1.png",
+    "content/resources/mceclip0_1.png",
     "index.html",
     "html/1-intencion-educativa.html",
     "html/2-elementos-curriculares.html",
