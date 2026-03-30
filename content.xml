@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202603281534279H6UWH</value>
+    <value>202603301108468RM212</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260328153427T1V1II</value>
+    <value>20260330110846A7RWLM</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774708435273</value>
+    <value>1774861674670</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,7 +85,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnafkwlk-097lu75om</odePageId>
+  <odePageId>page-mncytcvl-pdogf16vm</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -121,7 +121,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlk-097lu75om</odePageId>
+      <odePageId>page-mncytcvl-pdogf16vm</odePageId>
       <odeBlockId>block-1774088392018-iakpvwvkn</odeBlockId>
       <blockName>Rebelión matemática: resolviendo ecuaciones en Rebelión en la granja</blockName>
       <iconName></iconName>
@@ -150,7 +150,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlk-097lu75om</odePageId>
+          <odePageId>page-mncytcvl-pdogf16vm</odePageId>
           <odeBlockId>block-1774088392018-iakpvwvkn</odeBlockId>
           <odeIdeviceId>idevice-1774088392016-4ohnhz3ay</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -196,8 +196,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlo-m4v72d3vd</odePageId>
-  <odeParentPageId>page-mnafkwlk-097lu75om</odeParentPageId>
+  <odePageId>page-mncytcvo-bhxca0htc</odePageId>
+  <odeParentPageId>page-mncytcvl-pdogf16vm</odeParentPageId>
   <pageName>1. Intención educativa</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -232,7 +232,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlo-m4v72d3vd</odePageId>
+      <odePageId>page-mncytcvo-bhxca0htc</odePageId>
       <odeBlockId>block-1774085161999-ebzg9jxpo</odeBlockId>
       <blockName>Intención educativa</blockName>
       <iconName></iconName>
@@ -261,7 +261,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlo-m4v72d3vd</odePageId>
+          <odePageId>page-mncytcvo-bhxca0htc</odePageId>
           <odeBlockId>block-1774085161999-ebzg9jxpo</odeBlockId>
           <odeIdeviceId>idevice-1774085161996-id80xagp0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -301,8 +301,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlp-m2j2l27cf</odePageId>
-  <odeParentPageId>page-mnafkwlk-097lu75om</odeParentPageId>
+  <odePageId>page-mncytcvp-z5pm3m6gg</odePageId>
+  <odeParentPageId>page-mncytcvl-pdogf16vm</odeParentPageId>
   <pageName>2. Elementos curriculares</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -337,7 +337,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlp-m2j2l27cf</odePageId>
+      <odePageId>page-mncytcvp-z5pm3m6gg</odePageId>
       <odeBlockId>block-1774086469277-0zv6ncjkq</odeBlockId>
       <blockName>Elementos curriculares</blockName>
       <iconName></iconName>
@@ -366,7 +366,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlp-m2j2l27cf</odePageId>
+          <odePageId>page-mncytcvp-z5pm3m6gg</odePageId>
           <odeBlockId>block-1774086469277-0zv6ncjkq</odeBlockId>
           <odeIdeviceId>idevice-1774086469271-6wimtdgd3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -417,8 +417,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlp-jyql4s7pg</odePageId>
-  <odeParentPageId>page-mnafkwlk-097lu75om</odeParentPageId>
+  <odePageId>page-mncytcvp-waanpk7u3</odePageId>
+  <odeParentPageId>page-mncytcvl-pdogf16vm</odeParentPageId>
   <pageName>3. Metodologías activas</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -453,7 +453,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlp-jyql4s7pg</odePageId>
+      <odePageId>page-mncytcvp-waanpk7u3</odePageId>
       <odeBlockId>block-1774087638581-ovy1domll</odeBlockId>
       <blockName>Metodologías activas</blockName>
       <iconName></iconName>
@@ -482,7 +482,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlp-jyql4s7pg</odePageId>
+          <odePageId>page-mncytcvp-waanpk7u3</odePageId>
           <odeBlockId>block-1774087638581-ovy1domll</odeBlockId>
           <odeIdeviceId>idevice-1774087638578-0f1vro8op</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -516,8 +516,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlq-14lwzkctp</odePageId>
-  <odeParentPageId>page-mnafkwlk-097lu75om</odeParentPageId>
+  <odePageId>page-mncytcvq-f2t1xop9l</odePageId>
+  <odeParentPageId>page-mncytcvl-pdogf16vm</odeParentPageId>
   <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -552,7 +552,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlq-14lwzkctp</odePageId>
+      <odePageId>page-mncytcvq-f2t1xop9l</odePageId>
       <odeBlockId>block-1774087754447-yu203d3xz</odeBlockId>
       <blockName>inculación con los proyectos y programas del centro</blockName>
       <iconName></iconName>
@@ -581,7 +581,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlq-14lwzkctp</odePageId>
+          <odePageId>page-mncytcvq-f2t1xop9l</odePageId>
           <odeBlockId>block-1774087754447-yu203d3xz</odeBlockId>
           <odeIdeviceId>idevice-1774087754445-f2dkmtf4c</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -611,8 +611,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlr-dizwjgkvw</odePageId>
-  <odeParentPageId>page-mnafkwlk-097lu75om</odeParentPageId>
+  <odePageId>page-mncytcvr-zf78oh4s6</odePageId>
+  <odeParentPageId>page-mncytcvl-pdogf16vm</odeParentPageId>
   <pageName>5.  Actividades complementarias y extraescolares</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -647,7 +647,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlr-dizwjgkvw</odePageId>
+      <odePageId>page-mncytcvr-zf78oh4s6</odePageId>
       <odeBlockId>block-1774087868067-i9csaxmj7</odeBlockId>
       <blockName>Actividades complementarias y extraescolares</blockName>
       <iconName></iconName>
@@ -676,7 +676,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlr-dizwjgkvw</odePageId>
+          <odePageId>page-mncytcvr-zf78oh4s6</odePageId>
           <odeBlockId>block-1774087868067-i9csaxmj7</odeBlockId>
           <odeIdeviceId>idevice-1774087868065-n5ekp3fqv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -706,8 +706,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlr-1jl17l0xt</odePageId>
-  <odeParentPageId>page-mnafkwlk-097lu75om</odeParentPageId>
+  <odePageId>page-mncytcvr-y3ph3byvt</odePageId>
+  <odeParentPageId>page-mncytcvl-pdogf16vm</odeParentPageId>
   <pageName>6. Atribución y licencia</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -742,7 +742,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlr-1jl17l0xt</odePageId>
+      <odePageId>page-mncytcvr-y3ph3byvt</odePageId>
       <odeBlockId>block-1774089882551-2w1xcw7xr</odeBlockId>
       <blockName>Atribución y licencia</blockName>
       <iconName></iconName>
@@ -771,7 +771,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlr-1jl17l0xt</odePageId>
+          <odePageId>page-mncytcvr-y3ph3byvt</odePageId>
           <odeBlockId>block-1774089882551-2w1xcw7xr</odeBlockId>
           <odeIdeviceId>idevice-1774089882548-13zc67v7a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -803,14 +803,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwls-bkq9svvnr</odePageId>
+  <odePageId>page-mncytcvr-ek1ijp4am</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>SA ALUMNADO</pageName>
+  <pageName>SDA ALUMNADO</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>SA ALUMNADO</value>
+      <value>SDA ALUMNADO</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -830,18 +830,26 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>SA ALUMNADO</value>
+      <value>SDA ALUMNADO</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>SA ALUMNADO</value>
+      <value>SDA ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwls-bkq9svvnr</odePageId>
+      <odePageId>page-mncytcvr-ek1ijp4am</odePageId>
       <odeBlockId>block-1774096262177-za9l50i8q</odeBlockId>
-      <blockName>SA ALUMNADO</blockName>
+      <blockName>SDA ALUMNADO</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -868,7 +876,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwls-bkq9svvnr</odePageId>
+          <odePageId>page-mncytcvr-ek1ijp4am</odePageId>
           <odeBlockId>block-1774096262177-za9l50i8q</odeBlockId>
           <odeIdeviceId>idevice-1774096262173-ah78evzyd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -915,8 +923,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlt-t8tdmgpu8</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvs-ajy3dhnrk</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>1. Introducción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -951,7 +959,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlt-t8tdmgpu8</odePageId>
+      <odePageId>page-mncytcvs-ajy3dhnrk</odePageId>
       <odeBlockId>block-1774096941146-1g15919j6</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -980,7 +988,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlt-t8tdmgpu8</odePageId>
+          <odePageId>page-mncytcvs-ajy3dhnrk</odePageId>
           <odeBlockId>block-1774096941146-1g15919j6</odeBlockId>
           <odeIdeviceId>idevice-1774096941144-20wt0viku</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1015,8 +1023,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlt-f28aranqb</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvt-q6043inup</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>2. ¿Qué vamos a aprender?</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1051,7 +1059,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlt-f28aranqb</odePageId>
+      <odePageId>page-mncytcvt-q6043inup</odePageId>
       <odeBlockId>block-1774097158649-j365l6c1a</odeBlockId>
       <blockName>¿Qué vamos a aprender?</blockName>
       <iconName></iconName>
@@ -1080,7 +1088,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlt-f28aranqb</odePageId>
+          <odePageId>page-mncytcvt-q6043inup</odePageId>
           <odeBlockId>block-1774097158649-j365l6c1a</odeBlockId>
           <odeIdeviceId>idevice-1774097158648-lj0ihpqup</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1112,8 +1120,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlu-nc6wgr7w1</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvv-b1kf26kp4</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>3. Actividades</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1148,7 +1156,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlu-nc6wgr7w1</odePageId>
+      <odePageId>page-mncytcvv-b1kf26kp4</odePageId>
       <odeBlockId>block-1774097316673-ofaoiun00</odeBlockId>
       <blockName>Actividades</blockName>
       <iconName></iconName>
@@ -1177,7 +1185,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlu-nc6wgr7w1</odePageId>
+          <odePageId>page-mncytcvv-b1kf26kp4</odePageId>
           <odeBlockId>block-1774097316673-ofaoiun00</odeBlockId>
           <odeIdeviceId>idevice-1774097316672-qgkolldyt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1220,8 +1228,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlu-0umsbsq7e</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvw-cmipbrn7k</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>4. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1256,7 +1264,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlu-0umsbsq7e</odePageId>
+      <odePageId>page-mncytcvw-cmipbrn7k</odePageId>
       <odeBlockId>block-1774097457742-8w4r4t3tf</odeBlockId>
       <blockName>Producto final</blockName>
       <iconName></iconName>
@@ -1285,7 +1293,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlu-0umsbsq7e</odePageId>
+          <odePageId>page-mncytcvw-cmipbrn7k</odePageId>
           <odeBlockId>block-1774097457742-8w4r4t3tf</odeBlockId>
           <odeIdeviceId>idevice-1774097457740-0olvfudjf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1321,8 +1329,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlv-gbgzwq7h7</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvx-fz0pznp1z</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>5. Evaluación</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1357,7 +1365,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlv-gbgzwq7h7</odePageId>
+      <odePageId>page-mncytcvx-fz0pznp1z</odePageId>
       <odeBlockId>block-1774098034371-3rs75zwdj</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -1386,7 +1394,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlv-gbgzwq7h7</odePageId>
+          <odePageId>page-mncytcvx-fz0pznp1z</odePageId>
           <odeBlockId>block-1774098034371-3rs75zwdj</odeBlockId>
           <odeIdeviceId>idevice-1774098034369-phgyob2vn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1421,8 +1429,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlw-o7es0m1gb</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvy-2lg6skmdx</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>6. Juego 1</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1457,7 +1465,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlw-o7es0m1gb</odePageId>
+      <odePageId>page-mncytcvy-2lg6skmdx</odePageId>
       <odeBlockId>block-1774100358416-u8147jki3</odeBlockId>
       <blockName>Descubre</blockName>
       <iconName></iconName>
@@ -1486,7 +1494,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlw-o7es0m1gb</odePageId>
+          <odePageId>page-mncytcvy-2lg6skmdx</odePageId>
           <odeBlockId>block-1774100358416-u8147jki3</odeBlockId>
           <odeIdeviceId>idevice-1774100358414-e0d8yb3kb</odeIdeviceId>
           <odeIdeviceTypeName>discover</odeIdeviceTypeName>
@@ -1513,8 +1521,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlw-40vtuxbk9</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvy-l3bnyvb0i</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>7. Juego 2</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1549,7 +1557,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlw-40vtuxbk9</odePageId>
+      <odePageId>page-mncytcvy-l3bnyvb0i</odePageId>
       <odeBlockId>block-1774101144244-p67w32xi3</odeBlockId>
       <blockName>Math vocabulary</blockName>
       <iconName></iconName>
@@ -1578,7 +1586,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlw-40vtuxbk9</odePageId>
+          <odePageId>page-mncytcvy-l3bnyvb0i</odePageId>
           <odeBlockId>block-1774101144244-p67w32xi3</odeBlockId>
           <odeIdeviceId>idevice-1774101144243-rdsmgl0xh</odeIdeviceId>
           <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
@@ -1616,8 +1624,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwlx-3lyko7c2w</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvz-8jqywbl6q</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>8. Diccionario</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1652,7 +1660,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwlx-3lyko7c2w</odePageId>
+      <odePageId>page-mncytcvz-8jqywbl6q</odePageId>
       <odeBlockId>block-1774099576390-6f2dd1x0m</odeBlockId>
       <blockName>Diccionario</blockName>
       <iconName></iconName>
@@ -1681,7 +1689,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwlx-3lyko7c2w</odePageId>
+          <odePageId>page-mncytcvz-8jqywbl6q</odePageId>
           <odeBlockId>block-1774099576390-6f2dd1x0m</odeBlockId>
           <odeIdeviceId>idevice-1774099576387-hc4koj91t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1722,8 +1730,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnafkwly-os2oa1j39</odePageId>
-  <odeParentPageId>page-mnafkwls-bkq9svvnr</odeParentPageId>
+  <odePageId>page-mncytcvz-vjo5p6ay8</odePageId>
+  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
   <pageName>Descarga del recurso</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1758,7 +1766,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnafkwly-os2oa1j39</odePageId>
+      <odePageId>page-mncytcvz-vjo5p6ay8</odePageId>
       <odeBlockId>block-1774090086245-mxvhhwwsa</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1787,7 +1795,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnafkwly-os2oa1j39</odePageId>
+          <odePageId>page-mncytcvz-vjo5p6ay8</odePageId>
           <odeBlockId>block-1774090086245-mxvhhwwsa</odeBlockId>
           <odeIdeviceId>idevice-1774090086242-s2sv8qsmd</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>

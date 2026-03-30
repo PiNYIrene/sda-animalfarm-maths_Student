@@ -142,7 +142,7 @@ window.__ELPX_MANIFEST__={
     "html/4-vinculacion-con-los-proyectos-y-programas-del-ce.html",
     "html/5-actividades-complementarias-y-extraescolares.html",
     "html/6-atribucion-y-licencia.html",
-    "html/sa-alumnado.html",
+    "html/sda-alumnado.html",
     "html/1-introduccion.html",
     "html/2-que-vamos-a-aprender.html",
     "html/3-actividades.html",
