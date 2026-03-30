@@ -7,6 +7,7 @@ window.__ELPX_MANIFEST__={
   "files": [
     "content.xml",
     "content/css/base.css",
+    "content/img/exe_powered_logo.png",
     "theme/config.xml",
     "theme/icons/activity.png",
     "theme/icons/agreement.png",
@@ -73,6 +74,8 @@ window.__ELPX_MANIFEST__={
     "libs/exe_export.js",
     "libs/favicon.ico",
     "libs/common_i18n.js",
+    "libs/fflate/fflate.umd.js",
+    "libs/exe_elpx_download/exe_elpx_download.js",
     "idevices/text/exequextsq.svg",
     "idevices/text/text.css",
     "idevices/text/text.html",

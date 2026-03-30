@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202603301149173DOOMQ</value>
+    <value>20260330151235A4ES4P</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260330114917JFXDLH</value>
+    <value>20260330151235N9V198</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774861674670</value>
+    <value>1774876145752</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,10 +85,10 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mncytcvr-ek1ijp4am</odePageId>
+  <odePageId>page-mnd7fiu3-lfu5f0nx9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>SDA ALUMNADO</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvr-ek1ijp4am</odePageId>
+      <odePageId>page-mnd7fiu3-lfu5f0nx9</odePageId>
       <odeBlockId>block-1774096262177-za9l50i8q</odeBlockId>
       <blockName>SDA ALUMNADO</blockName>
       <iconName></iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvr-ek1ijp4am</odePageId>
+          <odePageId>page-mnd7fiu3-lfu5f0nx9</odePageId>
           <odeBlockId>block-1774096262177-za9l50i8q</odeBlockId>
           <odeIdeviceId>idevice-1774096262173-ah78evzyd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -205,8 +205,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvs-ajy3dhnrk</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiu7-ie8unqvki</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>1. Introducción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -241,7 +241,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvs-ajy3dhnrk</odePageId>
+      <odePageId>page-mnd7fiu7-ie8unqvki</odePageId>
       <odeBlockId>block-1774096941146-1g15919j6</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -270,7 +270,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvs-ajy3dhnrk</odePageId>
+          <odePageId>page-mnd7fiu7-ie8unqvki</odePageId>
           <odeBlockId>block-1774096941146-1g15919j6</odeBlockId>
           <odeIdeviceId>idevice-1774096941144-20wt0viku</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -305,8 +305,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvt-q6043inup</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiu8-i6pzbcf6r</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>2. ¿Qué vamos a aprender?</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -341,7 +341,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvt-q6043inup</odePageId>
+      <odePageId>page-mnd7fiu8-i6pzbcf6r</odePageId>
       <odeBlockId>block-1774097158649-j365l6c1a</odeBlockId>
       <blockName>¿Qué vamos a aprender?</blockName>
       <iconName></iconName>
@@ -370,7 +370,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvt-q6043inup</odePageId>
+          <odePageId>page-mnd7fiu8-i6pzbcf6r</odePageId>
           <odeBlockId>block-1774097158649-j365l6c1a</odeBlockId>
           <odeIdeviceId>idevice-1774097158648-lj0ihpqup</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -402,8 +402,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvv-b1kf26kp4</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiua-yjn9h9pna</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>3. Actividades</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -438,7 +438,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvv-b1kf26kp4</odePageId>
+      <odePageId>page-mnd7fiua-yjn9h9pna</odePageId>
       <odeBlockId>block-1774097316673-ofaoiun00</odeBlockId>
       <blockName>Actividades</blockName>
       <iconName></iconName>
@@ -467,7 +467,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvv-b1kf26kp4</odePageId>
+          <odePageId>page-mnd7fiua-yjn9h9pna</odePageId>
           <odeBlockId>block-1774097316673-ofaoiun00</odeBlockId>
           <odeIdeviceId>idevice-1774097316672-qgkolldyt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -510,8 +510,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvw-cmipbrn7k</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiuc-3sf5h9he8</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>4. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -546,7 +546,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvw-cmipbrn7k</odePageId>
+      <odePageId>page-mnd7fiuc-3sf5h9he8</odePageId>
       <odeBlockId>block-1774097457742-8w4r4t3tf</odeBlockId>
       <blockName>Producto final</blockName>
       <iconName></iconName>
@@ -575,21 +575,32 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvw-cmipbrn7k</odePageId>
+          <odePageId>page-mnd7fiuc-3sf5h9he8</odePageId>
           <odeBlockId>block-1774097457742-8w4r4t3tf</odeBlockId>
           <odeIdeviceId>idevice-1774097457740-0olvfudjf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Al finalizar esta situación de aprendizaje deberás elaborar los siguientes productos:</p>
-<p> <strong>Productos obligatorios</strong><br />✔ Una infografía digital con algún elemento interactivo (enlaces, botones, etc.)<br />✔ Un vídeo explicativo<br /> <br /><strong>Contenido</strong><br />Los productos deberán:</p>
-<p>Estar basados en Animal Farm<br />Incluir un problema de ecuación y otro de sistema de ecuaciones<br />Explicar el proceso de resolución paso a paso<br />Mostrar la relación con situaciones de la obra (reparto, desigualdad, etc.)<br /> <br /><strong>Importante</strong><br />⚠️ Todos los productos deberán realizarse en inglés.</p>
+<p> <strong>Productos obligatorios</strong><br />✔ Una infografía digital con algún elemento interactivo (enlaces, botones, etc.)<br />✔ Un vídeo explicativo<br /> <br /><strong>Contenido</strong></p>
+<p>La infografía:</p>
+<ul>
+<li>Deberá explicar como realizar ecuaciones de primer grado y sistemas de ecuaciones</li>
+<li>Deberá contener algún elemento interactivo (enlaces, botones, etc.)</li>
+</ul>
+<p>Debe de ser interactivo<br />El vídeo deberá:</p>
+<ul>
+<li>Estar basados en Animal Farm</li>
+<li>Incluir un problema de ecuación y otro de sistema de ecuaciones</li>
+<li>Explicar el proceso de resolución paso a paso</li>
+<li>Mostrar la relación con situaciones de la obra (reparto, desigualdad, etc.)<br /> <br /><strong>Importante</strong><br />⚠️ Todos los productos deberán realizarse en inglés.</li>
+</ul>
 <p><br /><strong>Herramientas</strong><br />Podrás utilizar:</p>
 <p>Canva<br />Genially<br />PowerPoint<br />Dispositivos móviles para grabar el vídeo</p>
 <p><strong>Trabajo en casa</strong><br />Parte del desarrollo del producto final se realizará fuera del aula, fomentando la autonomía y el uso responsable de herramientas digitales.</p>
 <p> <br /><strong>Trabajo en grupo</strong><br />El producto se realizará en grupo, por lo que todos los miembros deberán participar activamente.</p>
 <p><strong>Entrega del producto</strong><br />Los productos finales deberán entregarse a través del Teams</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774097457740-0olvfudjf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar esta situación de aprendizaje deberás elaborar los siguientes productos:</p>\n<p> <strong>Productos obligatorios</strong><br />✔ Una infografía digital con algún elemento interactivo (enlaces, botones, etc.)<br />✔ Un vídeo explicativo<br /> <br /><strong>Contenido</strong><br />Los productos deberán:</p>\n<p>Estar basados en Animal Farm<br />Incluir un problema de ecuación y otro de sistema de ecuaciones<br />Explicar el proceso de resolución paso a paso<br />Mostrar la relación con situaciones de la obra (reparto, desigualdad, etc.)<br /> <br /><strong>Importante</strong><br />⚠️ Todos los productos deberán realizarse en inglés.</p>\n<p><br /><strong>Herramientas</strong><br />Podrás utilizar:</p>\n<p>Canva<br />Genially<br />PowerPoint<br />Dispositivos móviles para grabar el vídeo</p>\n<p><strong>Trabajo en casa</strong><br />Parte del desarrollo del producto final se realizará fuera del aula, fomentando la autonomía y el uso responsable de herramientas digitales.</p>\n<p> <br /><strong>Trabajo en grupo</strong><br />El producto se realizará en grupo, por lo que todos los miembros deberán participar activamente.</p>\n<p><strong>Entrega del producto</strong><br />Los productos finales deberán entregarse a través del Teams</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774097457740-0olvfudjf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar esta situación de aprendizaje deberás elaborar los siguientes productos:</p>\n<p> <strong>Productos obligatorios</strong><br />✔ Una infografía digital con algún elemento interactivo (enlaces, botones, etc.)<br />✔ Un vídeo explicativo<br /> <br /><strong>Contenido</strong></p>\n<p>La infografía:</p>\n<ul>\n<li>Deberá explicar como realizar ecuaciones de primer grado y sistemas de ecuaciones</li>\n<li>Deberá contener algún elemento interactivo (enlaces, botones, etc.)</li>\n</ul>\n<p>Debe de ser interactivo<br />El vídeo deberá:</p>\n<ul>\n<li>Estar basados en Animal Farm</li>\n<li>Incluir un problema de ecuación y otro de sistema de ecuaciones</li>\n<li>Explicar el proceso de resolución paso a paso</li>\n<li>Mostrar la relación con situaciones de la obra (reparto, desigualdad, etc.)<br /> <br /><strong>Importante</strong><br />⚠️ Todos los productos deberán realizarse en inglés.</li>\n</ul>\n<p><br /><strong>Herramientas</strong><br />Podrás utilizar:</p>\n<p>Canva<br />Genially<br />PowerPoint<br />Dispositivos móviles para grabar el vídeo</p>\n<p><strong>Trabajo en casa</strong><br />Parte del desarrollo del producto final se realizará fuera del aula, fomentando la autonomía y el uso responsable de herramientas digitales.</p>\n<p> <br /><strong>Trabajo en grupo</strong><br />El producto se realizará en grupo, por lo que todos los miembros deberán participar activamente.</p>\n<p><strong>Entrega del producto</strong><br />Los productos finales deberán entregarse a través del Teams</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -611,8 +622,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvx-fz0pznp1z</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiue-0znnhsvku</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>5. Evaluación</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -647,7 +658,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvx-fz0pznp1z</odePageId>
+      <odePageId>page-mnd7fiue-0znnhsvku</odePageId>
       <odeBlockId>block-1774098034371-3rs75zwdj</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -676,7 +687,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvx-fz0pznp1z</odePageId>
+          <odePageId>page-mnd7fiue-0znnhsvku</odePageId>
           <odeBlockId>block-1774098034371-3rs75zwdj</odeBlockId>
           <odeIdeviceId>idevice-1774098034369-phgyob2vn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -711,8 +722,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvy-2lg6skmdx</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiuf-z7m3wpzmt</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>6. Juego 1</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -747,7 +758,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvy-2lg6skmdx</odePageId>
+      <odePageId>page-mnd7fiuf-z7m3wpzmt</odePageId>
       <odeBlockId>block-1774100358416-u8147jki3</odeBlockId>
       <blockName>Descubre</blockName>
       <iconName></iconName>
@@ -776,7 +787,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvy-2lg6skmdx</odePageId>
+          <odePageId>page-mnd7fiuf-z7m3wpzmt</odePageId>
           <odeBlockId>block-1774100358416-u8147jki3</odeBlockId>
           <odeIdeviceId>idevice-1774100358414-e0d8yb3kb</odeIdeviceId>
           <odeIdeviceTypeName>discover</odeIdeviceTypeName>
@@ -803,8 +814,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvy-l3bnyvb0i</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiug-p1xt8nyxt</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>7. Juego 2</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -839,7 +850,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvy-l3bnyvb0i</odePageId>
+      <odePageId>page-mnd7fiug-p1xt8nyxt</odePageId>
       <odeBlockId>block-1774101144244-p67w32xi3</odeBlockId>
       <blockName>Math vocabulary</blockName>
       <iconName></iconName>
@@ -868,7 +879,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvy-l3bnyvb0i</odePageId>
+          <odePageId>page-mnd7fiug-p1xt8nyxt</odePageId>
           <odeBlockId>block-1774101144244-p67w32xi3</odeBlockId>
           <odeIdeviceId>idevice-1774101144243-rdsmgl0xh</odeIdeviceId>
           <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
@@ -906,8 +917,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvz-8jqywbl6q</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiug-lgzuvynyu</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>8. Diccionario</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -942,7 +953,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvz-8jqywbl6q</odePageId>
+      <odePageId>page-mnd7fiug-lgzuvynyu</odePageId>
       <odeBlockId>block-1774099576390-6f2dd1x0m</odeBlockId>
       <blockName>Diccionario</blockName>
       <iconName></iconName>
@@ -971,7 +982,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvz-8jqywbl6q</odePageId>
+          <odePageId>page-mnd7fiug-lgzuvynyu</odePageId>
           <odeBlockId>block-1774099576390-6f2dd1x0m</odeBlockId>
           <odeIdeviceId>idevice-1774099576387-hc4koj91t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1012,8 +1023,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mncytcvz-vjo5p6ay8</odePageId>
-  <odeParentPageId>page-mncytcvr-ek1ijp4am</odeParentPageId>
+  <odePageId>page-mnd7fiuh-1wlk3hskn</odePageId>
+  <odeParentPageId>page-mnd7fiu3-lfu5f0nx9</odeParentPageId>
   <pageName>Descarga del recurso</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1048,7 +1059,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mncytcvz-vjo5p6ay8</odePageId>
+      <odePageId>page-mnd7fiuh-1wlk3hskn</odePageId>
       <odeBlockId>block-1774090086245-mxvhhwwsa</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1077,7 +1088,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mncytcvz-vjo5p6ay8</odePageId>
+          <odePageId>page-mnd7fiuh-1wlk3hskn</odePageId>
           <odeBlockId>block-1774090086245-mxvhhwwsa</odeBlockId>
           <odeIdeviceId>idevice-1774090086242-s2sv8qsmd</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -1093,7 +1104,7 @@
 <p>Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
 <p>Recurso en formato .elp que presenta la Situación de Aprendizaje “Rebelión matemática: resolviendo…”, basada en la obra Rebelión en la granja, desarrollada desde un enfoque interdisciplinar y vinculada al programa bilingüe HABLE. Este material integra contenidos de distintas áreas y promueve el desarrollo del pensamiento crítico, la competencia lingüística y la aplicación de las matemáticas en contextos significativos. El recurso incluye, por un lado, los apartados dirigidos al profesorado: intención educativa, elementos curriculares, metodologías activas, vinculación con proyectos del centro, actividades complementarias y atribución y licencia. Por otro lado, incorpora un espacio específico para el alumnado (SA ALUMNADO), estructurado en diferentes secciones: introducción, ¿qué vamos a aprender?, actividades, producto final y evaluación, así como recursos interactivos y de apoyo como juegos didácticos y un diccionario de términos.</p>
 <p>Está diseñado para su aplicación directa en el aula, permitiendo su adaptación a diferentes contextos educativos y favoreciendo un aprendizaje activo, participativo y contextualizado.</p>
-<span class="exe-prop-description">-</span></td>
+</td>
 </tr>
 <tr>
 <th>Autoría</th>
@@ -1105,7 +1116,7 @@
 </tr>
 </tbody>
 </table>
-<p></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+<p><br></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
